@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc67d51f625b54d4bb9060d9e9a89acc, type: 3}
+  m_Name: R
+  m_EditorClassIdentifier: 
+  boundsUp: 0
+  boundsDown: 0
+  boundsLeft: 0
+  boundsRight: 1
+  tileID: R
+  isStart: 0
+  isGoal: 0
+  isFound: 0
+  background: {fileID: 21300000, guid: e0f2e867ad5caf64386501daf436b797, type: 3}
+  obstacleList: []

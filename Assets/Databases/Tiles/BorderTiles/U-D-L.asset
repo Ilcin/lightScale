@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc67d51f625b54d4bb9060d9e9a89acc, type: 3}
+  m_Name: U-D-L
+  m_EditorClassIdentifier: 
+  boundsUp: 1
+  boundsDown: 1
+  boundsLeft: 1
+  boundsRight: 0
+  tileID: U-D-L
+  isStart: 0
+  isGoal: 0
+  isFound: 0
+  background: {fileID: 21300000, guid: 612471209c3da7c488338a2bf80b31d6, type: 3}
+  obstacleList: []

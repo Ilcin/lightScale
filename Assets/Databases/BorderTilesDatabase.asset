@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f04592db18a3be4f833daa473ea8cec, type: 3}
+  m_Name: BorderTilesDatabase
+  m_EditorClassIdentifier: 
+  mapTileList:
+  - {fileID: 11400000, guid: 76d7bbe6f20f3bf41ab0b06c7f870318, type: 2}
+  - {fileID: 11400000, guid: f1b96e2d6e53e5540b8d477ad3163870, type: 2}
+  - {fileID: 11400000, guid: aeeffa89c39c5d943b2e37585f4e5a4b, type: 2}
+  - {fileID: 11400000, guid: bc18636ab19394f4ba5a85b1fee55a30, type: 2}
+  - {fileID: 11400000, guid: dc82ddbef624bf94d83a6dee56d7e881, type: 2}
+  - {fileID: 11400000, guid: ca03290c2f6dd094ab9b761f689c3a38, type: 2}
+  - {fileID: 11400000, guid: 758dd71d09377e94eb3a3b8d7caa9d86, type: 2}
+  - {fileID: 11400000, guid: fb4d20dd2c0a0f84ba2044e985e7bb81, type: 2}
+  - {fileID: 11400000, guid: 9635ee15f95d4e94ca3d466a3efede53, type: 2}
+  - {fileID: 11400000, guid: 953cba5ee715646498e671478b826b34, type: 2}
+  - {fileID: 11400000, guid: ce4bf1051fb12e546a132b181b79ce14, type: 2}
+  - {fileID: 11400000, guid: 410a2a057d38def48a59137a5b13bcef, type: 2}
+  - {fileID: 11400000, guid: 8a8a097276f2c7c48bdb1bbfa800907b, type: 2}
+  - {fileID: 11400000, guid: 646c9f1fcf262b843b8f19570c787b8f, type: 2}
+  - {fileID: 11400000, guid: 61a2e95d4fab50f43901998b4d21cbed, type: 2}

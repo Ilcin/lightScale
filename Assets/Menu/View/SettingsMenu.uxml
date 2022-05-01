@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Menu/View/Styles.uss?fileID=7433441132597879392&amp;guid=0f232ad13cae2f941bfe98faa7dfdb76&amp;type=3#Styles" />
+    <ui:VisualElement name="Screen" picking-mode="Ignore" class="positioning background" style="align-items: center;">
+        <ui:VisualElement name="top" picking-mode="Ignore" class="positioning">
+            <ui:Label text="Settings" display-tooltip-when-elided="true" name="Label" class="h1" />
+            <ui:Label text="make it like you want" display-tooltip-when-elided="true" name="Label" class="h3 txt" />
+        </ui:VisualElement>
+        <ui:VisualElement name="center" picking-mode="Ignore" class="positioning">
+            <ui:Button text="Music on/off" display-tooltip-when-elided="true" name="music" class="button item" />
+            <ui:Button text="I do nothing" display-tooltip-when-elided="true" class="button item" />
+            <ui:Button text="give us all your money" display-tooltip-when-elided="true" class="button item" />
+        </ui:VisualElement>
+        <ui:VisualElement name="bottom" picking-mode="Ignore" class="positioning" style="flex-direction: column-reverse;">
+            <ui:Button text="&lt;- back" display-tooltip-when-elided="true" name="back" class="navigation" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
