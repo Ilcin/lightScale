@@ -7,8 +7,8 @@ lightscale is a mobile game which is still in development. Based on the theme "m
 The level generator creates a random tile-based map. Each tile is screensized. From a starting tile, the map adds tiles into all four directions, based on a spawnprobability.
 The minimum and maximum amount of tiles that can be spawned can be adjusted, and a random amount between that range will be generated.
 
-![Example for a Generated Map](/assets/images/LevelGenerator.JPG)
-![Example for a Generated Map](/assets/images/LevelGenerator2.JPG)
+![Example for a Generated Map](/Assets/images/LevelGenerator.JPG)
+![Example for a Generated Map](/Assets/images/LevelGenerator2.JPG)
 
 ### Asset Database
 A database made of scriptable objects supports the seperation of art and programming. Each object holds a reference for future artwork and prefab settings, which are automatically applied by the Levelgenerator and loaded in at random positions on the map based on the object specific probability to spawn. 
